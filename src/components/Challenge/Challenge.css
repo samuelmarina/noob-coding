@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+
+.challenge {
+  margin-top: 20vh;
+  margin-left: 6%;
+  max-width: 450px;
+  height: 90vh;
+}
+
+.challenge > h1 {
+  color: white;
+  font-size: 50px;
+  margin-top: 30vh !important;
+}
+
+.challenge > h2 {
+  color: white;
+  font-size: 20px;
+  max-width: 450px;
+  margin-top: 40px;
+}
+
+.challenge > h2 > span {
+  color: yellow;
+}
+
+#linkInput {
+  padding: 10px;
+  font-family: "Poppins";
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  margin-top: 30px;
+  width: 430px;
+  font-weight: 100;
+  color: #2196f3;
+}
+
+#linkInput::placeholder {
+  color: #2196f3;
+}
+
+#btnSubmit {
+  background: #2196f3;
+  color: white;
+  padding: 10px 30px;
+  border: none;
+  outline: none;
+  font-family: "Poppins";
+  border-radius: 5px;
+  float: right;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.arrow3 {
+  height: 30px !important;
+  width: 30px !important;
+  padding: 10px;
+  background-color: white;
+  border-radius: 50%;
+  margin-left: 40vw !important;
+  cursor: pointer;
+  margin-top: 60px !important;
+}
+
+@media only screen and (max-width: 600px) {
+  #linkInput {
+    padding: 10px;
+    font-family: "Poppins";
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin-top: 30px;
+    width: 430px;
+    font-weight: 100;
+    color: #2196f3;
+    margin-right: 10%;
+  }
+}
