@@ -66,5 +66,12 @@
     border-radius: 50%;
     margin-left: 40vw !important;
     cursor: pointer;
+    margin-bottom: 100%;
+  }
+}
+
+@media only screen and (max-height: 240px) {
+  .main {
+    margin-bottom: 100%;
   }
 }

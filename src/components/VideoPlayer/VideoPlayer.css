@@ -41,3 +41,9 @@
     margin-bottom: 100%;
   }
 }
+
+@media only screen and (max-height: 240px) {
+  .videoPlayer {
+    margin-bottom: 50%;
+  }
+}

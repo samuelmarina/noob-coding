@@ -16,8 +16,11 @@ const Challenge= () => {
             setIsLoading(true);
             const response = await postLink(link);
             setIsLoading(false);
-            if(response){
+            if(response.link){
                 alert("Your link was posted! Thank you, nerd")
+            }
+            else{
+                alert("Damn, something went wrong. Try again, bro")
             }
         }
         else{

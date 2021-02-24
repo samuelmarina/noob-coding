@@ -78,3 +78,6 @@
     margin-right: 10%;
   }
 }
+
+@media only screen and (max-height: 240px) {
+}

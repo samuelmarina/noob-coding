@@ -6,7 +6,7 @@ import arrow from "../../images/arrow-down.png";
 const VideoPlayer = ({videoId}) => {
     return (
         <div className="videoPlayer" id="slide2">
-            <h1>Task explaination video</h1>
+            <h1>Task explanation video</h1>
             <YouTube videoId={videoId} className="YTPlayer"/>
 
             <img onClick={function(){scroll()}} src={arrow} alt="Arrow" className="arrow2"/>
