@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/noob-coding/static/css/main.8f1c4f91.chunk.css",
-    "main.js": "/noob-coding/static/js/main.d93d4b01.chunk.js",
-    "main.js.map": "/noob-coding/static/js/main.d93d4b01.chunk.js.map",
+    "main.css": "/noob-coding/static/css/main.38254d5d.chunk.css",
+    "main.js": "/noob-coding/static/js/main.6e7cb3d9.chunk.js",
+    "main.js.map": "/noob-coding/static/js/main.6e7cb3d9.chunk.js.map",
     "runtime-main.js": "/noob-coding/static/js/runtime-main.7f77b233.js",
     "runtime-main.js.map": "/noob-coding/static/js/runtime-main.7f77b233.js.map",
     "static/js/2.98372ca5.chunk.js": "/noob-coding/static/js/2.98372ca5.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.80886ae6.chunk.js": "/noob-coding/static/js/3.80886ae6.chunk.js",
     "static/js/3.80886ae6.chunk.js.map": "/noob-coding/static/js/3.80886ae6.chunk.js.map",
     "index.html": "/noob-coding/index.html",
-    "static/css/main.8f1c4f91.chunk.css.map": "/noob-coding/static/css/main.8f1c4f91.chunk.css.map",
+    "static/css/main.38254d5d.chunk.css.map": "/noob-coding/static/css/main.38254d5d.chunk.css.map",
     "static/js/2.98372ca5.chunk.js.LICENSE.txt": "/noob-coding/static/js/2.98372ca5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7f77b233.js",
     "static/js/2.98372ca5.chunk.js",
-    "static/css/main.8f1c4f91.chunk.css",
-    "static/js/main.d93d4b01.chunk.js"
+    "static/css/main.38254d5d.chunk.css",
+    "static/js/main.6e7cb3d9.chunk.js"
   ]
 }
